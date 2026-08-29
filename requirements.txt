@@ -1,0 +1,4 @@
+```text
+boto3
+Pillow
+```
